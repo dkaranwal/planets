@@ -1,2 +1,3 @@
-hello pluto changing the first line
 is not a dog, this is a planet
+yes yes is a dog
+conflict resolved
